@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{72E9C003-18BE-465A-BB1E-F34095D723DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aula3107_ConsoleApp1</RootNamespace>
-    <AssemblyName>Aula3107_ConsoleApp1</AssemblyName>
+    <RootNamespace>Aula3107_Console</RootNamespace>
+    <AssemblyName>Aula3107_Console</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
